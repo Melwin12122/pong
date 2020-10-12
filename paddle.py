@@ -48,5 +48,3 @@ class Paddle:
                 break
             i += 1
         return radians(angle)
-        
-        
