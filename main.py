@@ -2,7 +2,7 @@ import pygame
 from constants import *
 from paddle import Paddle
 from ball import Ball
-from client import Client
+
 
 pygame.init()
 
